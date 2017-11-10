@@ -5,5 +5,5 @@ QUANTITY    DESCRIPTION
 
 
 Note: some parts for future development not listed: 
-JP2 and JP5 for JTAG
+R1, R2 JP2 and JP5 for JTAG
 PIN HEADER 1x6 for JP1
