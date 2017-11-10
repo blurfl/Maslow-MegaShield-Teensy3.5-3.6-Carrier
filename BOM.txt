@@ -1,0 +1,9 @@
+QUANTITY    DESCRIPTION     
+4           PIN HEADER  1X8     
+2           PIN HEADER  2X2
+2           PIN HEADER  1X24
+
+
+Note: some parts for future development not listed: 
+JP2 and JP5 for JTAG
+PIN HEADER 1x6 for JP1
