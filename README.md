@@ -11,9 +11,8 @@ Schematic
 
 ![Schematic](/Schematic.tif)
 
-======================
 
-Notes:
+Notes
 
  Most of the pin assignments match the Arduino Mega. IN5 & IN6 were changed so that they would be PWM capable (for a different project). The AUX pins were re-arranged for convenience of layout. The board version detection was not implemented, as that would tie up four more gpio pins. 
  
