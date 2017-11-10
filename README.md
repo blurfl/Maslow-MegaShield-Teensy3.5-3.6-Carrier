@@ -5,7 +5,7 @@ Carrier board to connect a Teensy 3.5 or 3.6 to a Maslow MegaShield motor contro
 
 Layout
 
-![Layout](/Board Layout.tif)
+![Layout](/BoardLayout.tif)
 
 Schematic
 
