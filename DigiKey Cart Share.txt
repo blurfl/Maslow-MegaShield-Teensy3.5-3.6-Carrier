@@ -2,4 +2,4 @@ MegaShield-Teensy356-Carrier-v1.0
 
 DigiKey cart share
 
-http://www.digikey.com/short/q3cph3
+http://www.digikey.com/short/q3cwfr
